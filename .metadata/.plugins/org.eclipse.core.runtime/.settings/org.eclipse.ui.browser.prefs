@@ -1,0 +1,3 @@
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/silvio/Projetos%20Eclipse/eclipse-SpringBoot/paycarbus/src/main/resources/templates/evento/formEvento.html|*|file\:/home/silvio/Projetos%20Eclipse/eclipse-SpringBoot/paycarbus/src/main/resources/templates/evento/formEvento.html|*|file\:///home/silvio/Projetos%20Eclipse/eclipse-SpringBoot/paycarbus/src/main/resources/templates/index.html|*|file\:/home/silvio/Projetos%20Eclipse/eclipse-SpringBoot/paycarbus/src/main/resources/templates/index.html|*|
